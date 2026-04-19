@@ -115,6 +115,12 @@ alternative commands."
   :default "false"
   :global t)
 
+HELLO
+
+
+
+
+
 (transient-define-infix magit-mergetool.writeToTemp ()
   :class 'magit--git-variable:boolean
   :variable "mergetool.writeToTemp"
